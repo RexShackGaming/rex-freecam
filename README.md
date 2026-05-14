@@ -160,6 +160,10 @@ X: 1234.56, Y: -789.01, Z: 45.67, Pitch: 15.00, Roll: 0.00, Yaw: 180.00, FOV: 60
 - Ensure `ox_lib` is properly installed and initialized
 - Clipboard functionality requires the ox_lib UI to be available
 
+## Credits
+
+Original creator kibook : https://github.com/kibook
+
 ## License
 
 Refer to the original repository for license information.
